@@ -6,7 +6,7 @@
     {
       templates = {
         python = {
-          path = ./minimal;
+          path = ./python;
           description = "Python starter kit";
         };
         go = {
